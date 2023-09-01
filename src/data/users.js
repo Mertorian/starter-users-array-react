@@ -3712,4 +3712,45 @@ export const users = [
     },
     nat: "ES",
   },
+  {
+    gender: "male",
+    name: { title: "Mr", first: "Mert", last: "Tercan" },
+    location: {
+      street: { number: 69, name: "Onion Town" },
+      city: "Swamp",
+      state: "Far Far Away",
+      country: "Shrekverse",
+      postcode: 27836,
+      coordinates: { latitude: "54.2250", longitude: "6.2491" },
+      timezone: {
+        offset: "+6:00",
+        description: "Almaty, Dhaka, Colombo",
+      },
+    },
+    email: "shrek.lover69@shrekmail.com",
+    login: {
+      uuid: "60ccf808-87fc-4477-a536-6f4cf83c0b46",
+      username: "Shrekorian",
+      password: "FarquaadSucks69",
+      salt: "apaVV4jV",
+      md5: "3b00183f9f4559c271f2571eb744eb89",
+      sha1: "9013e85b411f6113f07f64224b2fff3d6fcc105d",
+      sha256:
+        "a2f832431835d0d2883589b65b8e38ba8742f79455010e6a3c814019a58acb80",
+    },
+    dob: { date: "1998-12-11T07:29:24.174Z", age: 24 },
+    registered: { date: "2014-01-15T22:06:27.009Z", age: 9 },
+    phone: "983-539-064",
+    cell: "631-305-127",
+    id: { name: "DNI", value: "30194555-O" },
+    picture: {
+      large:
+        "https://img.welt.de/img/kultur/mobile101290753/2682509427-ci102l-w1024/Shrek-Aufmacher-BM-Lifestyle-Seeburg-jpg.jpg",
+      medium:
+        "https://img.welt.de/img/kultur/mobile101290753/2682509427-ci102l-w1024/Shrek-Aufmacher-BM-Lifestyle-Seeburg-jpg.jpg",
+      thumbnail:
+        "https://img.welt.de/img/kultur/mobile101290753/2682509427-ci102l-w1024/Shrek-Aufmacher-BM-Lifestyle-Seeburg-jpg.jpg",
+    },
+    nat: "ES",
+  },
 ];
